@@ -1,6 +1,9 @@
 # EasyProof
 
-A simple proof of concept ChatGPT integration
+A simple proof of concept ChatGPT integration.  
+
+## What is does?
+You provide a paragraph of text and hit the proof button and let ChatGPT proof read and correct it for you.
 
 ## SDK
 
