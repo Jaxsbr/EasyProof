@@ -10,6 +10,9 @@ You provide a paragraph of text and hit the proof button and let ChatGPT proof r
 I decided to keep it simple and use an existing C# SDK
 https://github.com/betalgo/openai
 
+Install
+`Install-Package Betalgo.OpenAI`
+
 ## Pre requisites
 
 You need to setup a billing account  
